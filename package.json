@@ -1,0 +1,22 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Command Line Data ",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lancelogan1/liri.git"
+  },
+  "author": "Lance Logan",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lancelogan1/liri/issues"
+  },
+  "homepage": "https://github.com/lancelogan1/liri#readme"
+}
