@@ -13,7 +13,10 @@
   "author": "Lance Logan",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.81.0"
+    "bandsintown": "^1.0.1",
+    "npm": "^6.4.1",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0"
   },
   "bugs": {
     "url": "https://github.com/lancelogan1/liri/issues"
